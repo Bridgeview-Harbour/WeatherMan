@@ -1,5 +1,5 @@
-# Weather
-Website Displaying the Current Weather Display at Bridgeview Harbour Marina
+# WeatherMan
+This conatins the infrastruture and application code for WeatherMan, the hyper local recreational marine forcast tool. 
 
 ## Audiance
 Our Weather information will be open and available for public consumption thru our provided website.  
